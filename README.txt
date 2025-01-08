@@ -1,4 +1,4 @@
-# Retail project:
+#Retail project:
 ## Dashboard for sales & profit
 ### Single page report
 #### Achieved by POWER BI advance concept ** BOOKMARKS
